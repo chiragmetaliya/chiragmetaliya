@@ -2,7 +2,7 @@
 
 <p align="left">
 <a href="https://www.linkedin.com/in/chirag-metaliya/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/chiragmetaliya/chiragmetaliya/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.instagram.com/chirag_metaliyaa/" target="_blank"><img height="30" src="https://image.flaticon.com/icons/svg/725/725278.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.instagram.com/chirag_metaliyaa/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/chiragmetaliya/chiragmetaliya/master/instagram.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://leetcode.com/metaliya/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/chiragmetaliya/chiragmetaliya/master/Resources/svg/leetcode.svg?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
