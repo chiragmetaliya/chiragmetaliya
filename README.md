@@ -16,7 +16,7 @@ I support India 🇮🇳 and MI.
 
 <br>
 
- - 📫 How to reach me: [chiragmetaliya@gmail.com](mailto:chiragmetaliya@gmail.com);
+ - 📫 How to reach me: [chiragmetaliya@gmail.com](mailto:chiragmetaliya@gmail.com)
  - 🔗 To Visit My website: [Click Here](https://chiragmetaliya.github.io/portfolio/)
  
  <br>
