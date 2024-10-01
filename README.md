@@ -67,11 +67,11 @@ I support India 🇮🇳 and MI.
 
 </details>
 </br>
+
 <details>
-<summary>📈 My Leetcode Stats</summary>
 
-<p align="center"> ![Leetcode Stats](https://leetcard.jacoblin.cool/metaliya) </p>
-
+ <summary>📈 My Leetcode Stats</summary>
+![LeetCode Stats](https://leetcard.jacoblin.cool/metaliya?theme=dark&ext=heatmap)</td>
 </details>
 
 </br>
