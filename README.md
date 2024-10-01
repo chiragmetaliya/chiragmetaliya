@@ -66,6 +66,13 @@ I support India 🇮🇳 and MI.
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=chiragmetaliya&show_icons=true&theme=gotham" alt="chiragmetaliya" />
 
 </details>
+</br>
+<details>
+<summary>📈 My Leetcode Stats</summary>
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/metaliya)
+
+</details>
 
 </br>
 
