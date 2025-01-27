@@ -84,8 +84,8 @@ I support India 🇮🇳 and MI.
 <a href="https://github.com/chiragmetaliya/hearnote" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chiragmetaliya&repo=hearnote&theme=dracula" />
 </a>
-<a href="https://github.com/chiragmetaliya/tipssplitapp" target="_blank">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chiragmetaliya&repo=tipssplitapp&theme=dracula" />
+<a href="https://github.com/chiragmetaliya/sipcalculator" target="_blank">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chiragmetaliya&repo=sipcalculator&theme=dracula" />
 </a>
 <div align="center">
 
